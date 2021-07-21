@@ -3,4 +3,4 @@
 
 # Day 1: Installing Python
 # Day 2: Learn the basics of a print statement[Printing In Python]
- <i>Each Day Has A Readme Make Sure To Check</i>
+ <i>Each  Day Has A Readme Make Sure To Check</i>
