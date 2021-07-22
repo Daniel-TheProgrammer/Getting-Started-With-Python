@@ -3,5 +3,7 @@
 
 # Day 1: Installing Python
 # Day 2: Learn the basics of a print statement[Printing In Python]
- <i>Each  Day Has A Readme Make Sure To Check</i>
 # Day 3: Operators
+# Day 4: Variables & Variable Types
+
+ <i>Each  Day Has A Readme Make Sure To Check</i>
