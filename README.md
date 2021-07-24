@@ -7,3 +7,4 @@
 # Day 4: Variables & Variable Types
 
  <i>Each  Day Has A Readme Make Sure To Check</i>
+# Day 5: Check your Mail
