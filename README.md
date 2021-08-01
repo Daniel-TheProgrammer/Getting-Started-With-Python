@@ -5,6 +5,6 @@
 # Day 2: Learn the basics of a print statement[Printing In Python]
 # Day 3: Operators
 # Day 4: Variables & Variable Types
-
- <i>Each  Day Has A Readme Make Sure To Check</i>
-# Day 5: Check your Mail
+# Day 5: Learn the basics of formatting strings in python.
+# Day 6: Lists in Python
+# Day 7: Ranges in Python
