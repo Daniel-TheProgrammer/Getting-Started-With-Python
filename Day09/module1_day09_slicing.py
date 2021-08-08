@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module1_day09_slicing.py
-    Creation Date:  6/2/2019, 8:55 AM
+    Author:        Daniel-TheProgrammer
     Description:    Learn the basics of slicing in python.
 """
 
