@@ -66,4 +66,4 @@
     ```
 8. The `rename()` function can be used to update the name of a file.  
    `os.rename('constitution.txt', 'constitutionBillOfRights.txt')`
-9. Update the [log file](../../log.md) with what you have learned today.
+

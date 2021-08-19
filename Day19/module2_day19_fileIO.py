@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day19_fileIO.py
-    Creation Date:  6/8/2019, 6:05 PM
+    Author:         Daniel theProgrammer
     Description:    Learn the basics of file input/output in python.
 """
 
@@ -78,3 +75,8 @@ c.close()
 
 # The `rename()` function can be used to update the name of a file.
 os.rename('constitution.txt', 'constitutionBillOfRights.txt')
+
+
+
+# Forget about the content of the files!!
+#PS Focus on your task

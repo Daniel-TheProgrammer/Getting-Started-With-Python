@@ -121,4 +121,4 @@ Core python is extremely powerful on its own, but its greatest potential can be 
       --no-color                     Suppress colored output
 
     ```
-10. Update the [log file](../../log.md) with what you have learned today.
+Author: DTP
