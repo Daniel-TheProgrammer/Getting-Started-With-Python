@@ -7,6 +7,7 @@
 # required. In Python Enhancement Proposal (PEP) 20 an Easter Egg was added to python. By executing `import this`, the
 # "Zen of Python" by Tim Peters is provided. This is a collection of aphorisms that succinctly describe the guiding
 # principles of Python's design, according to Guido van Rossum (the Benevolent Dictator for Life).
+
 import this
 import os
 
