@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day23_lambdas.py
-    Creation Date:  6/13/2019, 8:16 AM
+    Author:          Daniel TheProgrammer
     Description:    Learn the basics about lambda functions.
 """
 

@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day27_logging.py
-    Creation Date:  6/20/2019, 7:59 AM
+    Author:         Daniel TheProgrammer
     Description:    Learn the basics of logging in python.
 """
 

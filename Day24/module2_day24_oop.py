@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day24_oop.py
-    Creation Date:  6/16/2019, 8:54 AM
+    Author:          Daniel TheProgrammer
     Description:    Learn the foundation of object-oriented programming with python.
 """
 

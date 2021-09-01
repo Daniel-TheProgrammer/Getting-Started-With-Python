@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day22_recursion.py
-    Creation Date:  6/12/2019, 8:25 AM
+    Author:         Daniel TheProgrammer
     Description:    Learn about recursive functions in python.
 """
 

@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day25_comprehensions.py
-    Creation Date:  6/19/2019, 9:41 AM
+    Author:          Daniel TheProgrammer
     Description:    Learn the basics of list comprehensions in python.
 """
 

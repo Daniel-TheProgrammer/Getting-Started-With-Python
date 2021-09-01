@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module2_day26_mapFilterZip.py
-    Creation Date:  6/19/2019, 5:51 PM
+    Author:         Daniel TheProgrammer
     Description:    Learn the basics of the `map()`, `filter()`, and `zip()` functions.
 """
 
