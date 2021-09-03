@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module3_day30_fileSearch.py
-    Creation Date:  6/24/2019, 11:05 AM
+    Author:         DAniel THeProgrammer
     Description:    Python Automation Program 2: File Search
 """
 
