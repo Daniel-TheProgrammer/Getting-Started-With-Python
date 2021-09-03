@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module3_day34_powerpoint.py
-    Creation Date:  6/28/2019, 3:35 PM
+    Author:         Daniel TheProgrammer
     Description:    Python Automation Program 6: PowerPoint Manipulations
 """
 

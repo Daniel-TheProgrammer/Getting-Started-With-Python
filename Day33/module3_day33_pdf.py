@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module3_day33_pdf.py
-    Creation Date:  6/27/2019, 10:25 AM
+    Author:         Daniel TheProgrammer
     Description:    Python Automation Program 5: PDF Manipulations
 """
 

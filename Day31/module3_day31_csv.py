@@ -1,8 +1,5 @@
 """
-    Author:         CaptCorpMURICA
-    Project:        100DaysPython
-    File:           module3_day31_csv.py
-    Creation Date:  6/26/2019, 8:15 AM
+    Author:        Daniel TheProgrammer
     Description:    Python Automation Program 3: CSV Manipulations
 """
 
